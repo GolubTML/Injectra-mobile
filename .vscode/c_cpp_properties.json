@@ -4,8 +4,8 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/opt/android-ndk/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include",
-                "/opt/android-ndk/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/android"
+                "/opt/android-ndk/android-ndk-r29/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include",
+                "/opt/android-ndk/android-ndk-r29/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/android"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/clang",
